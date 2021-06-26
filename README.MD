@@ -1,10 +1,9 @@
 "# NodejsTextbookPractices" 
 
-This repository is made to practice codes to study Node.js.
+This repository is made to practice codes for studying Node.js.
 
+Codes are from a book named "Nodejs Textbook 2nd edition"
 
+1. Threads in Nodejs - "NodejsThreads" folder
 
-Codes are from a book called "Nodejs Textbook 2nd edition"
-
-1. Threads in Nodejs
-
+2. Filesystems in Nodejs  - "NodejsFileSystems" folder
